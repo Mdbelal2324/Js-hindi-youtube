@@ -22,6 +22,12 @@
 
 
  ///////************************** opretors************************************************ */
- let value= 3;
- let negValue= value;
- console.log(negValue);
+ //let value= 3;
+ //let negValue= value;
+ //console.log(negValue);
+
+
+ let str1="hello";
+ let str2= "belal";
+ let str3= str1+str2;
+ console.log(str3);  
