@@ -4,18 +4,18 @@
 
 //1 primitive Data type 
 // type (string number  boolean null undefine symbol BigInt )
-onst score = 100
-const scoreValue = 100.3
+//onst score = 100
+//const scoreValue = 100.3
 
-const isLoggedIn = falseconst 
-const outsideTemp = null
+//const isLoggedIn = falseconst 
+//const outsideTemp = null
 
-let userEmail;
+//let userEmail;
 
 
-const bigNumber = 4712893789235n
+//const bigNumber = 4712893789235n
 
-console.log(id =23@ifjf);
+//console.log(id =23@ifjf);
 
 
 //2 noprimitive Data Type
@@ -25,8 +25,29 @@ console.log(id =23@ifjf);
 
 //NOte javaScript ko agar master karna hai to  object Aur browser ke web event ya browser event ko achhe se padh lijye bas  
 
-const heros =["sharukh", "salman", "karan"];
-let myObj = {
+//const heros =["sharukh", "salman", "karan"];
+//let myObj = {
 
-    age: 22,
+    //age: 22,
+//}
+
+
+
+
+
+
+
+
+
+// ********************yaha se memory ki baatye  
+
+// Stack(premitive)                 Heap(Non premetive)
+let myYoutubename ="belaldekho"
+let anothername = myYoutubename;
+console.log(anothername);
+
+
+let user1 = {
+    email : "mdbelalaa35@gmail.com",
+    upi:"969324201117@paytm"
 }
